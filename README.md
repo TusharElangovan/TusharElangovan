@@ -1,5 +1,5 @@
 # 💫 About Me:
-Im an aeronautical engineer with a passion for using technology for good.<br>Im currently working on Data Science and Analytics related projects on Kaggle.<br>
+Im an Aeronautical Engineer with a minors in Data Science. I have a passion for using technology for good.<br>Im currently working on Data Science and Analytics related projects on Kaggle.<br>
 
 
 ## 🌐 Socials:
@@ -18,6 +18,5 @@ Im an aeronautical engineer with a passion for using technology for good.<br>Im 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
 [![](https://visitcount.itsvg.in/api?id=TusharElangovan&icon=0&color=1)](https://visitcount.itsvg.in)
 
