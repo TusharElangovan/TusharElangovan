@@ -1,5 +1,5 @@
 # 💫 About Me:
-Im a Grad Student pursuing my master's in Applied Data Science. I have a passion for using technology for good.<br>Im currently working on Data Science and Analytics projects on Kaggle.<br>
+Im a Grad Student pursuing my master's in Applied Data Science at the University of Southern California. I have a passion for using technology for good.<br>Im currently working on Data Science and Analytics projects on Kaggle.<br>
 
 
 ## 🌐 Socials:
